@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// University: Dr. Shakuntala Misra National Rehabilitation University, Lucknow
+// Name: Shubham Pandey 
 // 
 // Create Date: 08.07.2026 16:50:27
 // Design Name: 
